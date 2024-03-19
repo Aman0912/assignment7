@@ -1,0 +1,120 @@
+[
+    {
+      "recipe_id": "1",
+      "recipe_name": "Bengali Fish Curry",
+      "recipe_image": "https://i.ibb.co/PYD8LH8/download.jpg",
+      "short_description": "A flavorful fish curry made with traditional Bengali spices.",
+      "ingredients": [
+        "500g fish fillets",
+        "2 onions, finely chopped",
+        "3 tomatoes, chopped",
+        "2 green chilies, sliced",
+        "1 teaspoon turmeric powder",
+        "2 teaspoons red chili powder",
+        "1 teaspoon cumin powder",
+        "1 teaspoon coriander powder",
+        "Salt to taste",
+        "2 tablespoons mustard oil",
+        "Fresh coriander leaves for garnish"
+      ],
+      "preparing_time": "40 min",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_id": "2",
+      "recipe_name": "Panta Bhat",
+      "recipe_image": "https://i.ibb.co/X3LMQnL/download.jpg",
+      "short_description": "A fermented rice dish, typically eaten with fried fish or pickles.",
+      "ingredients": [
+        "2 cups leftover cooked rice",
+        "Water",
+        "Salt to taste",
+        "1 tablespoon mustard oil",
+        "1 onion, finely chopped",
+        "2 green chilies, chopped",
+        "2 tablespoons coriander leaves, chopped"
+      ],
+      "preparing_time": "15 min",
+      "calories": "150 calories"
+    },
+    {
+      "recipe_id": "3",
+      "recipe_name": "Dhokar Dalna",
+      "recipe_image": "https://i.ibb.co/f9N2PH5/download.jpg",
+      "short_description": "A traditional Bengali dish made with lentil cakes cooked in a spicy gravy.",
+      "ingredients": [
+        "1 cup chana dal (split Bengal gram)",
+        "1 teaspoon ginger paste",
+        "1 teaspoon cumin powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon red chili powder",
+        "Salt to taste",
+        "2 tablespoons mustard oil",
+        "2 potatoes, diced",
+        "1 tomato, chopped",
+        "2 green chilies, slit",
+        "1 teaspoon sugar",
+        "1/2 teaspoon garam masala powder",
+        "Fresh coriander leaves for garnish"
+      ],
+      "preparing_time": "45 min",
+      "calories": "280 calories"
+    },
+    {
+      "recipe_id": "4",
+      "recipe_name": "Shorshe Ilish",
+      "recipe_image": "https://i.ibb.co/RQQp8DM/download.jpg",
+      "short_description": "Hilsa fish cooked in a mustard gravy, a delicacy in Bengali cuisine.",
+      "ingredients": [
+        "500g Hilsa fish",
+        "4 tablespoons mustard paste",
+        "2 green chilies, slit",
+        "1/2 teaspoon turmeric powder",
+        "Salt to taste",
+        "2 tablespoons mustard oil"
+      ],
+      "preparing_time": "35 min",
+      "calories": "300 calories"
+    },
+    {
+      "recipe_id": "5",
+      "recipe_name": "Pitha",
+      "recipe_image": "https://i.ibb.co/HHDmwcL/download.jpg",
+      "short_description": "Traditional rice cakes made during festivals and special occasions.",
+      "ingredients": [
+        "2 cups rice flour",
+        "1 cup grated coconut",
+        "1 cup jaggery, grated",
+        "1 teaspoon cardamom powder",
+        "Water as needed",
+        "Oil for frying"
+      ],
+      "preparing_time": "60 min",
+      "calories": "200 calories"
+    },
+    {
+      "recipe_id": "6",
+      "recipe_name": "Chingri Malai Curry",
+      "recipe_image": "https://i.ibb.co/s9v5pQd/download.jpg",
+      "short_description": "A creamy prawn curry cooked with coconut milk, a popular dish in Bengali cuisine.",
+      "ingredients": [
+        "300g prawns, cleaned",
+        "1 onion, finely chopped",
+        "1 teaspoon ginger paste",
+        "1 teaspoon garlic paste",
+        "1/2 teaspoon turmeric powder",
+        "1 teaspoon red chili powder",
+        "1/2 teaspoon cumin powder",
+        "1/2 teaspoon coriander powder",
+        "Salt to taste",
+        "1 cup coconut milk",
+        "2 tablespoons mustard oil",
+        "2 green chilies, slit",
+        "Fresh coriander leaves for garnish"
+      ],
+      "preparing_time": "50 min",
+      "calories": "320 calories"
+    }
+  ]
+  
